@@ -1,0 +1,59 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f4f4f4;
+}
+
+.bg-container {
+    background-image: url("https://wallpaperaccess.com/full/1540030.jpg");
+    height: 100vh;
+    background-size: cover;
+    text-align: center;
+    padding: 40px;
+    text-align: center;
+}
+
+.information {
+    font-weight: bold;
+
+}
+
+.useof {
+    color: white;
+    font-weight: bold;
+}
+
+.container {
+    padding: 70px;
+    width: 300px;
+    text-align: center;
+    margin-left: 30vw;
+    background-image: url("https://th.bing.com/th/id/OIP._MOMVN63E8NBQYmguh4zEgHaEK?rs=1&pid=ImgDetMain");
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+input {
+    width: 80%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+button {
+    padding: 10px 15px;
+    border: none;
+    background: #007bff;
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+button:hover {
+    background: #0056b3;
+}
+
+#weather-info {
+    margin-top: 20px;
+}
